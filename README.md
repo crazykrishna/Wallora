@@ -55,12 +55,10 @@ Choose either method to get the project onto your PC:
 If you have Git installed, open Command Prompt or PowerShell and run:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/crazykrishna/Wallora.git
 ```
 
 Then open the downloaded project folder.
-
-> Replace `YOUR_GITHUB_REPOSITORY_URL` with the actual URL of this repository.
 
 ## ⚙️ Install & Run
 
