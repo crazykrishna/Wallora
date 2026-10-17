@@ -2,7 +2,7 @@
 
 # 🌌 Wallora
 
-### Your Desktop, Your Atmosphere.
+### Where Motion Meets Music.
 
 **Bring your desktop to life with video wallpapers and background music — with simple controls and automatic startup.**
 
@@ -114,7 +114,7 @@ Check the repository for license information before redistributing or modifying 
 
 <div align="center">
 
-**Wallora — Your Desktop, Your Atmosphere.** 🌌
+**Wallora — Where Motion Meets Music** 🌌
 
 Made for a desktop that feels a little more like yours.
 
